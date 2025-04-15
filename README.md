@@ -4,7 +4,7 @@
 
 ```bash
 
-git clone <repository-url>
+git clone https://github.com/Prasadk1618/flask-docker-app.git
 cd flask-docker-app
 
 ```
